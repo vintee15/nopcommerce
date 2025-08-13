@@ -1,0 +1,406 @@
+
+07112025 06:16:35 PM - INFO - ********* verifying login test *************
+07112025 06:18:03 PM - INFO - ***** loged in ******
+07112025 06:26:41 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 06:26:41 PM - INFO - ********* verifying login DDT test *************
+07112025 06:26:55 PM - INFO - ****** Passed  ******
+07112025 06:30:24 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 06:30:24 PM - INFO - ********* verifying login DDT test *************
+07112025 06:31:55 PM - INFO - ****** Passed  ******
+07112025 06:38:52 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 06:38:52 PM - INFO - ********* verifying login DDT test *************
+07112025 06:39:17 PM - INFO - ****** Passed  ******
+07112025 06:43:37 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 06:43:37 PM - INFO - ********* verifying login DDT test *************
+07112025 06:44:30 PM - INFO - ****** Passed  ******
+07112025 06:57:07 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 06:57:07 PM - INFO - ********* verifying login DDT test *************
+07112025 06:57:45 PM - INFO - ****** Passed  ******
+07112025 06:59:00 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 06:59:00 PM - INFO - ********* verifying login DDT test *************
+07112025 07:09:15 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 07:09:15 PM - INFO - ********* verifying login DDT test *************
+07112025 07:09:33 PM - INFO - ****** Passed  ******
+07112025 07:13:46 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 07:13:46 PM - INFO - ********* verifying login DDT test *************
+07112025 07:16:52 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 07:16:52 PM - INFO - ********* verifying login DDT test *************
+07112025 07:18:02 PM - INFO - ****** Passed  ******
+07112025 07:21:32 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 07:21:32 PM - INFO - ********* verifying login DDT test *************
+07112025 07:23:29 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 07:23:29 PM - INFO - ********* verifying login DDT test *************
+07112025 07:25:26 PM - INFO - ****** Passed  ******
+07112025 07:28:15 PM - INFO - ***********Test_002_DDT_Login**************
+07112025 07:28:15 PM - INFO - ********* verifying login DDT test *************
+07142025 04:46:01 PM - INFO - ***********Test_002_DDT_Login**************
+07142025 04:46:01 PM - INFO - ********* verifying login DDT test *************
+07142025 04:46:49 PM - INFO - ****** Passed  ******
+07142025 04:47:16 PM - INFO - **** Pass ******
+07142025 04:47:23 PM - INFO - **** Pass ******
+07142025 04:47:42 PM - INFO - **** Pass ******
+07142025 04:47:42 PM - INFO - ****** Login DDT test passed  ******
+07142025 04:47:42 PM - INFO - ******** End of Login DDT test ***********
+07142025 04:47:42 PM - INFO - ******* Completed TC_LoginDDT_002 **********
+07182025 07:14:37 PM - INFO - *******Test_003_AddCustomer ***********
+07182025 07:15:08 PM - INFO - ******** LoginSuccesful ***********
+07182025 07:15:08 PM - INFO - ******** Starting add cutomer Test **********
+07182025 07:18:25 PM - INFO - *******Test_003_AddCustomer ***********
+07182025 07:43:40 PM - INFO - *******Test_003_AddCustomer ***********
+07182025 07:45:33 PM - INFO - ******** LoginSuccesful ***********
+07182025 07:45:33 PM - INFO - ******** Starting add cutomer Test **********
+07182025 07:54:41 PM - INFO - *******Test_003_AddCustomer ***********
+07182025 07:55:18 PM - INFO - ******** LoginSuccesful ***********
+07182025 07:55:18 PM - INFO - ******** Starting add cutomer Test **********
+07182025 07:59:43 PM - INFO - *******Test_003_AddCustomer ***********
+07182025 07:59:54 PM - INFO - ******** LoginSuccesful ***********
+07182025 07:59:54 PM - INFO - ******** Starting add cutomer Test **********
+07182025 08:02:40 PM - INFO - *******Test_003_AddCustomer ***********
+07192025 04:57:52 PM - INFO - *******Test_003_AddCustomer ***********
+07192025 04:58:50 PM - INFO - ******** LoginSuccesful ***********
+07192025 04:58:50 PM - INFO - ******** Starting add cutomer Test **********
+07192025 04:58:50 PM - INFO - **** till herepy is working or not *****
+07192025 05:30:54 PM - INFO - ********* verifying login test *************
+07192025 05:31:01 PM - INFO - ***** loged in ******
+07192025 05:33:52 PM - INFO - ********* verifying login test *************
+07192025 05:34:58 PM - INFO - ***** loged in ******
+07192025 05:36:28 PM - INFO - ********* verifying login test *************
+07192025 05:36:46 PM - INFO - ***** loged in ******
+07192025 06:48:02 PM - INFO - ********** Test_001_Login *********** 
+07192025 06:48:02 PM - INFO - ********* verifying Home page title *************
+07192025 06:48:15 PM - INFO - ********* Home page title test is passed *************
+07192025 06:48:15 PM - INFO - ********* verifying login test *************
+07192025 06:48:30 PM - INFO - ***** loged in ******
+07192025 06:50:14 PM - INFO - *******Test_003_AddCustomer ***********
+07192025 06:50:34 PM - INFO - ******** LoginSuccesful ***********
+07192025 06:50:34 PM - INFO - ******** Starting add cutomer Test **********
+07192025 07:03:21 PM - INFO - *******Test_003_AddCustomer ***********
+07192025 07:04:26 PM - INFO - ******** LoginSuccesful ***********
+07192025 07:04:26 PM - INFO - ******** Starting add cutomer Test **********
+07212025 01:34:45 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 01:34:55 PM - INFO - ******** LoginSuccesful ***********
+07212025 01:34:55 PM - INFO - ******** Starting add cutomer Test **********
+07212025 01:36:59 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 01:46:19 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 01:51:35 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 01:51:43 PM - INFO - ******** LoginSuccesful ***********
+07212025 01:51:43 PM - INFO - ******** Starting add cutomer Test **********
+07212025 02:06:55 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 02:16:53 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 02:17:06 PM - INFO - ******** LoginSuccesful ***********
+07212025 02:17:06 PM - INFO - ******** Starting add cutomer Test **********
+07212025 02:20:50 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 02:34:18 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 02:35:54 PM - INFO - ******** LoginSuccesful ***********
+07212025 02:35:54 PM - INFO - ******** Starting add cutomer Test **********
+07212025 02:39:18 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 02:40:04 PM - INFO - ******** LoginSuccesful ***********
+07212025 02:40:04 PM - INFO - ******** Starting add cutomer Test **********
+07212025 02:48:07 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 02:51:35 PM - INFO - ******** LoginSuccesful ***********
+07212025 02:51:35 PM - INFO - ******** Starting add cutomer Test **********
+07212025 02:52:36 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 02:53:13 PM - INFO - ******** LoginSuccesful ***********
+07212025 02:53:13 PM - INFO - ******** Starting add cutomer Test **********
+07212025 03:03:54 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 03:04:24 PM - INFO - ******** LoginSuccesful ***********
+07212025 03:04:24 PM - INFO - ******** Starting add cutomer Test **********
+07212025 03:05:10 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 03:05:49 PM - INFO - ******** LoginSuccesful ***********
+07212025 03:05:49 PM - INFO - ******** Starting add cutomer Test **********
+07212025 06:21:07 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 06:21:23 PM - INFO - ******** LoginSuccesful ***********
+07212025 06:21:23 PM - INFO - ******** Starting add cutomer Test **********
+07212025 06:21:33 PM - INFO - **** till here is workinh ******
+07212025 06:23:22 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 06:23:33 PM - INFO - ******** LoginSuccesful ***********
+07212025 06:23:33 PM - INFO - ******** Starting add cutomer Test **********
+07212025 06:23:43 PM - INFO - **** till here is workinh ******
+07212025 06:25:27 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 06:27:17 PM - INFO - ******** LoginSuccesful ***********
+07212025 06:27:17 PM - INFO - ******** Starting add cutomer Test **********
+07212025 06:40:42 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 06:41:25 PM - INFO - ******** LoginSuccesful ***********
+07212025 06:41:25 PM - INFO - ******** Starting add cutomer Test **********
+07212025 06:49:02 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 06:49:54 PM - INFO - ******** LoginSuccesful ***********
+07212025 06:49:54 PM - INFO - ******** Starting add cutomer Test **********
+07212025 06:50:09 PM - INFO - **** till here is workinh ******
+07212025 06:50:43 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 06:54:38 PM - INFO - ******** LoginSuccesful ***********
+07212025 06:54:38 PM - INFO - ******** Starting add cutomer Test **********
+07212025 06:59:00 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 07:06:16 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 07:11:19 PM - INFO - ******** LoginSuccesful ***********
+07212025 07:11:19 PM - INFO - ******** Starting add cutomer Test **********
+07212025 07:15:03 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 07:15:06 PM - INFO - ******** LoginSuccesful ***********
+07212025 07:15:06 PM - INFO - ******** Starting add cutomer Test **********
+07212025 07:20:27 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 07:27:13 PM - INFO - *******Test_003_AddCustomer ***********
+07212025 07:27:28 PM - INFO - ******** LoginSuccesful ***********
+07212025 07:27:28 PM - INFO - ******** Starting add cutomer Test **********
+07222025 06:04:14 PM - INFO - *******Test_003_AddCustomer ***********
+07222025 06:04:21 PM - INFO - ******** LoginSuccesful ***********
+07222025 06:04:21 PM - INFO - ******** Starting add cutomer Test **********
+07222025 06:04:31 PM - INFO - **** till here is workinh ******
+07222025 06:16:05 PM - INFO - *******Test_003_AddCustomer ***********
+07222025 06:37:42 PM - INFO - *******Test_003_AddCustomer ***********
+07222025 06:38:06 PM - INFO - ******** LoginSuccesful ***********
+07222025 06:38:06 PM - INFO - ******** Starting add cutomer Test **********
+07292025 05:16:08 PM - INFO - *******Test_003_AddCustomer ***********
+07292025 06:47:55 PM - INFO - *******Test_003_AddCustomer ***********
+07292025 06:48:00 PM - INFO - ******** LoginSuccesful ***********
+07292025 06:48:00 PM - INFO - ******** Starting add cutomer Test **********
+07292025 06:48:16 PM - INFO - **** till here is workinh ******
+07292025 06:48:17 PM - INFO - ****** providing customer info *******
+07292025 06:48:17 PM - INFO - **** till2 here is workinh ******
+07292025 07:11:06 PM - INFO - *******Test_003_AddCustomer ***********
+07292025 07:13:36 PM - INFO - ******** LoginSuccesful ***********
+07292025 07:13:36 PM - INFO - ******** Starting add cutomer Test **********
+07292025 07:15:09 PM - INFO - **** till here is workinh ******
+07292025 08:05:53 PM - INFO - *******Test_003_AddCustomer ***********
+07292025 08:06:13 PM - INFO - ******** LoginSuccesful ***********
+07292025 08:06:13 PM - INFO - ******** Starting add cutomer Test **********
+07292025 08:06:32 PM - INFO - **** till here is workinh ******
+07292025 08:06:34 PM - INFO - ****** providing customer info *******
+07292025 08:06:34 PM - INFO - **** till2 here is workinh ******
+07292025 08:14:58 PM - INFO - *******Test_003_AddCustomer ***********
+07292025 08:16:07 PM - INFO - ******** LoginSuccesful ***********
+07292025 08:16:07 PM - INFO - ******** Starting add cutomer Test **********
+07292025 08:16:34 PM - INFO - **** till here is workinh ******
+07292025 08:16:35 PM - INFO - ****** providing customer info *******
+07292025 08:16:35 PM - INFO - **** till2 here is workinh ******
+07292025 08:24:26 PM - INFO - *******Test_003_AddCustomer ***********
+07292025 08:24:36 PM - INFO - ******** LoginSuccesful ***********
+07292025 08:24:36 PM - INFO - ******** Starting add cutomer Test **********
+07292025 08:24:53 PM - INFO - **** till here is workinh ******
+07292025 08:24:54 PM - INFO - ****** providing customer info *******
+07292025 08:24:54 PM - INFO - **** till2 here is workinh ******
+07302025 12:46:25 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 12:46:29 PM - INFO - ******** LoginSuccesful ***********
+07302025 12:46:29 PM - INFO - ******** Starting add cutomer Test **********
+07302025 12:46:45 PM - INFO - **** till here is workinh ******
+07302025 12:46:46 PM - INFO - ****** providing customer info *******
+07302025 12:46:46 PM - INFO - **** till2 here is workinh ******
+07302025 01:04:01 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 01:06:32 PM - INFO - ******** LoginSuccesful ***********
+07302025 01:06:32 PM - INFO - ******** Starting add cutomer Test **********
+07302025 01:10:24 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 01:10:26 PM - INFO - ******** LoginSuccesful ***********
+07302025 01:10:26 PM - INFO - ******** Starting add cutomer Test **********
+07302025 01:10:44 PM - INFO - **** till here is workinh ******
+07302025 01:10:45 PM - INFO - ****** providing customer info *******
+07302025 01:10:45 PM - INFO - **** till2 here is workinh ******
+07302025 01:22:04 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 01:22:11 PM - INFO - ******** LoginSuccesful ***********
+07302025 01:22:11 PM - INFO - ******** Starting add cutomer Test **********
+07302025 01:22:28 PM - INFO - **** till here is workinh ******
+07302025 01:22:29 PM - INFO - ****** providing customer info *******
+07302025 01:22:29 PM - INFO - **** till2 here is workinh ******
+07302025 01:51:11 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 01:54:17 PM - INFO - ******** LoginSuccesful ***********
+07302025 01:54:17 PM - INFO - ******** Starting add cutomer Test **********
+07302025 01:57:40 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 01:57:44 PM - INFO - ******** LoginSuccesful ***********
+07302025 01:57:44 PM - INFO - ******** Starting add cutomer Test **********
+07302025 01:58:00 PM - INFO - **** till here is workinh ******
+07302025 01:58:01 PM - INFO - ****** providing customer info *******
+07302025 01:58:01 PM - INFO - **** till2 here is workinh ******
+07302025 02:05:40 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 02:05:44 PM - INFO - ******** LoginSuccesful ***********
+07302025 02:05:44 PM - INFO - ******** Starting add cutomer Test **********
+07302025 02:05:55 PM - INFO - **** till here is workinh ******
+07302025 02:05:56 PM - INFO - ****** providing customer info *******
+07302025 02:05:56 PM - INFO - **** till2 here is workinh ******
+07302025 02:10:25 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 02:10:35 PM - INFO - ******** LoginSuccesful ***********
+07302025 02:10:35 PM - INFO - ******** Starting add cutomer Test **********
+07302025 02:10:53 PM - INFO - **** till here is workinh ******
+07302025 02:10:54 PM - INFO - ****** providing customer info *******
+07302025 02:10:54 PM - INFO - **** till2 here is workinh ******
+07302025 02:13:22 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 02:19:14 PM - INFO - ******** LoginSuccesful ***********
+07302025 02:19:14 PM - INFO - ******** Starting add cutomer Test **********
+07302025 02:34:59 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 02:37:15 PM - INFO - ******** LoginSuccesful ***********
+07302025 02:37:15 PM - INFO - ******** Starting add cutomer Test **********
+07302025 02:38:02 PM - INFO - **** till here is workinh ******
+07302025 02:38:03 PM - INFO - ****** providing customer info *******
+07302025 02:38:03 PM - INFO - **** till2 here is workinh ******
+07302025 02:41:08 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 02:41:44 PM - INFO - ******** LoginSuccesful ***********
+07302025 02:41:44 PM - INFO - ******** Starting add cutomer Test **********
+07302025 02:42:09 PM - INFO - **** till here is workinh ******
+07302025 02:42:10 PM - INFO - ****** providing customer info *******
+07302025 02:42:10 PM - INFO - **** till2 here is workinh ******
+07302025 03:13:59 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 03:14:30 PM - INFO - ******** LoginSuccesful ***********
+07302025 03:14:30 PM - INFO - ******** Starting add cutomer Test **********
+07302025 03:14:50 PM - INFO - **** till here is workinh ******
+07302025 03:14:51 PM - INFO - ****** providing customer info *******
+07302025 03:14:51 PM - INFO - **** till2 here is workinh ******
+07302025 04:22:13 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 04:24:34 PM - INFO - ******** LoginSuccesful ***********
+07302025 04:24:34 PM - INFO - ******** Starting add cutomer Test **********
+07302025 04:24:50 PM - INFO - **** till here is workinh ******
+07302025 04:24:51 PM - INFO - ****** providing customer info *******
+07302025 04:24:51 PM - INFO - **** till2 here is workinh ******
+07302025 04:47:33 PM - INFO - *******Test_003_AddCustomer ***********
+07302025 06:35:35 PM - INFO - *****searchCustomerByEmail_004 ************
+07302025 06:35:53 PM - INFO - *******login successful *********
+07302025 06:35:53 PM - INFO - ******* starting search customer by email *********
+07302025 06:43:04 PM - INFO - *****searchCustomerByEmail_004 ************
+07302025 06:43:40 PM - INFO - *******login successful *********
+07302025 06:43:40 PM - INFO - ******* starting search customer by email *********
+07302025 06:44:00 PM - INFO - ****** searching customer by emailID ************
+07302025 06:45:03 PM - INFO - *****searchCustomerByEmail_004 ************
+07302025 06:45:15 PM - INFO - *******login successful *********
+07302025 06:45:15 PM - INFO - ******* starting search customer by email *********
+07302025 06:45:20 PM - INFO - ****** searching customer by emailID ************
+07302025 06:55:38 PM - INFO - *****searchCustomerByEmail_004 ************
+07302025 06:56:17 PM - INFO - *******login successful *********
+07302025 06:56:17 PM - INFO - ******* starting search customer by email *********
+07302025 06:56:20 PM - INFO - ****** searching customer by emailID ************
+08042025 03:15:42 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 03:16:02 PM - INFO - *******login successful *********
+08042025 03:16:02 PM - INFO - ******* starting search customer by email *********
+08042025 03:16:10 PM - INFO - ****** searching customer by emailID ************
+08042025 03:22:10 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 03:23:29 PM - INFO - *******login successful *********
+08042025 03:23:29 PM - INFO - ******* starting search customer by email *********
+08042025 03:23:47 PM - INFO - ****** searching customer by emailID ************
+08042025 03:30:29 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 03:30:43 PM - INFO - *******login successful *********
+08042025 03:30:43 PM - INFO - ******* starting search customer by email *********
+08042025 03:31:04 PM - INFO - ****** searching customer by emailID ************
+08042025 03:36:17 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 03:36:24 PM - INFO - *******login successful *********
+08042025 03:36:24 PM - INFO - ******* starting search customer by email *********
+08042025 03:36:56 PM - INFO - ****** searching customer by emailID ************
+08042025 03:51:31 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 03:54:37 PM - INFO - *******login successful *********
+08042025 03:54:37 PM - INFO - ******* starting search customer by email *********
+08042025 03:55:03 PM - INFO - ****** searching customer by emailID ************
+08042025 04:11:29 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 04:11:40 PM - INFO - *******login successful *********
+08042025 04:11:40 PM - INFO - ******* starting search customer by email *********
+08042025 04:11:47 PM - INFO - ****** searching customer by emailID ************
+08042025 05:06:38 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 05:06:45 PM - INFO - *******login successful *********
+08042025 05:06:45 PM - INFO - ******* starting search customer by email *********
+08042025 05:06:48 PM - INFO - ****** searching customer by emailID ************
+08042025 05:08:45 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 05:10:09 PM - INFO - *******login successful *********
+08042025 05:10:09 PM - INFO - ******* starting search customer by email *********
+08042025 05:10:29 PM - INFO - ****** searching customer by emailID ************
+08042025 05:33:51 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 05:35:13 PM - INFO - *******login successful *********
+08042025 05:35:13 PM - INFO - ******* starting search customer by email *********
+08042025 05:35:33 PM - INFO - ****** searching customer by emailID ************
+08042025 05:44:37 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 05:47:13 PM - INFO - *******login successful *********
+08042025 05:47:13 PM - INFO - ******* starting search customer by email *********
+08042025 05:47:47 PM - INFO - ****** searching customer by emailID ************
+08042025 05:56:47 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 05:56:50 PM - INFO - *******login successful *********
+08042025 05:56:50 PM - INFO - ******* starting search customer by email *********
+08042025 05:57:11 PM - INFO - ****** searching customer by emailID ************
+08042025 06:02:10 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 06:02:23 PM - INFO - *******login successful *********
+08042025 06:02:23 PM - INFO - ******* starting search customer by email *********
+08042025 06:02:44 PM - INFO - ****** searching customer by emailID ************
+08042025 06:04:13 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 06:04:20 PM - INFO - *******login successful *********
+08042025 06:04:20 PM - INFO - ******* starting search customer by email *********
+08042025 06:04:22 PM - INFO - ****** searching customer by emailID ************
+08042025 06:04:32 PM - INFO - ******* TC_SearchCustomerByEmail_004 Finished *******
+08042025 06:27:36 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 06:30:06 PM - INFO - *******login successful *********
+08042025 06:30:06 PM - INFO - ******* starting search customer by email *********
+08042025 06:31:22 PM - INFO - ****** searching customer by emailID ************
+08042025 06:35:23 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 06:36:21 PM - INFO - *******login successful *********
+08042025 06:36:21 PM - INFO - ******* starting search customer by email *********
+08042025 06:36:32 PM - INFO - ****** searching customer by emailID ************
+08042025 06:42:42 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 06:43:30 PM - INFO - *******login successful *********
+08042025 06:43:30 PM - INFO - ******* starting search customer by email *********
+08042025 06:43:52 PM - INFO - ****** searching customer by emailID ************
+08042025 06:45:46 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 06:50:27 PM - INFO - *******login successful *********
+08042025 06:50:27 PM - INFO - ******* starting search customer by email *********
+08042025 06:50:37 PM - INFO - ****** searching customer by emailID ************
+08042025 06:58:37 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 07:01:01 PM - INFO - *******login successful *********
+08042025 07:01:01 PM - INFO - ******* starting search customer by email *********
+08042025 07:03:45 PM - INFO - ****** searching customer by Name ************
+08042025 07:11:13 PM - INFO - *****searchCustomerByEmail_004 ************
+08042025 07:14:29 PM - INFO - *******login successful *********
+08042025 07:14:29 PM - INFO - ******* starting search customer by name *********
+08042025 07:14:49 PM - INFO - ****** searching customer by Name ************
+08042025 07:24:01 PM - INFO - *****searchCustomerByName_005 ************
+08042025 07:24:09 PM - INFO - *******login successful *********
+08042025 07:24:09 PM - INFO - ******* starting search customer by name *********
+08042025 07:24:14 PM - INFO - ****** searching customer by Name ************
+08042025 07:56:10 PM - INFO - *****searchCustomerByName_005 ************
+08042025 07:59:28 PM - INFO - *******login successful *********
+08042025 07:59:28 PM - INFO - ******* starting search customer by name *********
+08042025 07:59:31 PM - INFO - ****** searching customer by Name ************
+08042025 08:22:12 PM - INFO - *****searchCustomerByName_005 ************
+08042025 08:23:30 PM - INFO - *******login successful *********
+08042025 08:23:30 PM - INFO - ******* starting search customer by name *********
+08042025 08:23:50 PM - INFO - ****** searching customer by Name ************
+08042025 08:33:07 PM - INFO - *****searchCustomerByName_005 ************
+08042025 08:35:08 PM - INFO - *******login successful *********
+08042025 08:35:08 PM - INFO - ******* starting search customer by name *********
+08042025 08:35:50 PM - INFO - ****** searching customer by Name ************
+08042025 08:41:04 PM - INFO - *****searchCustomerByName_005 ************
+08042025 08:41:14 PM - INFO - *******login successful *********
+08042025 08:41:14 PM - INFO - ******* starting search customer by name *********
+08042025 08:41:17 PM - INFO - ****** searching customer by Name ************
+08042025 08:41:27 PM - INFO - ******* Test_SearchCustomerByName_005 Finished *******
+08052025 05:59:31 PM - INFO - *****searchCustomerByName_005 ************
+08052025 05:59:36 PM - INFO - *******login successful *********
+08052025 05:59:36 PM - INFO - ******* starting search customer by name *********
+08052025 06:11:14 PM - INFO - *****searchCustomerByName_005 ************
+08052025 06:11:18 PM - INFO - *******login successful *********
+08052025 06:11:18 PM - INFO - ******* starting search customer by name *********
+08052025 06:33:31 PM - INFO - *****searchCustomerByName_005 ************
+08052025 06:33:36 PM - INFO - *******login successful *********
+08052025 06:33:36 PM - INFO - ******* starting search customer by name *********
+08052025 06:34:02 PM - INFO - ****** searching customer by Name ************
+08052025 06:35:54 PM - INFO - *****searchCustomerByName_005 ************
+08052025 06:35:57 PM - INFO - *******login successful *********
+08052025 06:35:57 PM - INFO - ******* starting search customer by name *********
+08052025 07:05:22 PM - INFO - *****searchCustomerByName_005 ************
+08052025 07:06:33 PM - INFO - *******login successful *********
+08052025 07:06:33 PM - INFO - ******* starting search customer by name *********
+08052025 07:06:37 PM - INFO - ****** searching customer by Name ************
+08052025 07:11:09 PM - INFO - *****searchCustomerByName_005 ************
+08052025 07:11:13 PM - INFO - *******login successful *********
+08052025 07:11:13 PM - INFO - ******* starting search customer by name *********
+08062025 06:11:28 PM - INFO - *****searchCustomerByName_005 ************
+08062025 06:11:41 PM - INFO - *******login successful *********
+08062025 06:11:41 PM - INFO - ******* starting search customer by name *********
+08062025 06:11:45 PM - INFO - ****** searching customer by Name ************
+08062025 06:55:57 PM - INFO - *******Test_003_AddCustomer ***********
+08062025 06:58:08 PM - INFO - ******** LoginSuccesful ***********
+08062025 06:58:08 PM - INFO - ******** Starting add cutomer Test **********
+08062025 06:58:20 PM - INFO - ********** Test_001_Login *********** 
+08062025 06:58:20 PM - INFO - ********* verifying Home page title *************
+08062025 06:58:26 PM - INFO - ********* Home page title test is passed *************
+08062025 06:58:26 PM - INFO - ********* verifying login test *************
+08062025 06:58:43 PM - INFO - ***** loged in ******
+08062025 07:07:57 PM - INFO - ********** Test_001_Login *********** 
+08062025 07:07:57 PM - INFO - ********* verifying Home page title *************
+08062025 07:08:03 PM - INFO - ********* Home page title test is passed *************
+08062025 07:08:03 PM - INFO - ********* verifying login test *************
+08062025 07:08:11 PM - INFO - ***** loged in ******
+08062025 07:08:33 PM - ERROR - ********* login test is failed *************
+08072025 06:27:09 PM - INFO - *******Test_003_AddCustomer ***********
+08072025 06:27:14 PM - INFO - ******** LoginSuccesful ***********
+08072025 06:27:14 PM - INFO - ******** Starting add cutomer Test **********
+08072025 06:46:38 PM - INFO - *******Test_003_AddCustomer ***********
+08072025 06:47:55 PM - INFO - ******** LoginSuccesful ***********
+08072025 06:47:55 PM - INFO - ******** Starting add cutomer Test **********

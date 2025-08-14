@@ -18,7 +18,10 @@ def setup(browser):
         driver = webdriver.Edge()
     else:
         driver = webdriver.Ie()      # for default browser if no browser name pass at run time
-    driver.command_executor._client_config._timeout = 300
+    # driver.command_executor._client_config._timeout = 300
+    driver.set_page_load_timeout(300)
+    driver.set_script_timeout(300)
+
     return driver
 
 def pytest_addoption(parser):     # this will get value from CLI/hooks (command line)
